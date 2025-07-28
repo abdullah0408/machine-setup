@@ -18,7 +18,6 @@ This guide helps you set up your macOS environment after a clean install or syst
 brew install git              # Version control
 brew install node             # JavaScript runtime (includes npm)
 brew install python           # Latest Python 3
-brew install docker           # Docker CLI
 brew install mas              # Mac App Store CLI
 ```
 
@@ -34,7 +33,6 @@ brew install --cask postman                 # API development
 brew install --cask visual-studio-code      # Code editor
 brew install --cask google-chrome           # Browser
 brew install --cask notion                  # Notes and docs
-brew install --cask wireguard               # VPN client
 brew install --cask discord                 # Discord app
 ```
 
